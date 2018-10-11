@@ -8,8 +8,8 @@ Adds wands and spells for them to Minetest.
     * Sends the user a message telling them which wand will work best for them
   * /wands spells
     * Lists all availiable spells and a short description
-* Rightclick with a wand to block incoming spells
-  *S hield will block all spells that come witin a one node radius
+* Rightclick with a wand to dpawn a shield that will block incoming spells
+  * Shield will block all spells that come witin a one node radius
   
 To cast a spell you need two things:
   * The shout privilege
