@@ -16,5 +16,6 @@ To cast a spell you need two things:
   * A wand
   
 To cast a spell type it into the chat console and add `!!!` after it. Do not put anything else in the message if you want it to work.
-Example: "augue!!!"
+### Example: "augue!!!"
+
 Once the message has been sent whenever you left click with your wand the spell will be cast
